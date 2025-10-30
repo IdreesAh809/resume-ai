@@ -12,7 +12,6 @@ This project is a **Smart ATS (Applicant Tracking System) Resume Evaluator** bui
   - Strengths & weaknesses
   - Missing keywords
   - Overall percentage match
-- Designed for **AI Engineer, Data Scientist, and related tech roles**.
 - Uses **OpenAI GPT-3.5 Turbo** for natural language evaluation.
 
 ---
